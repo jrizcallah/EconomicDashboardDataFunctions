@@ -6,4 +6,4 @@ BUSINESS_STATISTICS_URL = "https://www.census.gov/econ_export/?format=csv&mode=r
 # where to save the data
 BUSINESS_ENTITIES_CSV_PATH = 'data/business_entities.csv'
 BUSINESS_STATISTICS_CSV_PATH = 'data/business_statistics.csv'
-
+GRAPH_DATA_CSV_PATH = 'data/graph_data.csv'
